@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Erykor&#39;s Blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Erykor&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 12:40:22 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why We Feel a Problem Is Hard</title>
+      <link>http://example.org/posts/why-we-feel-a-problem-is-hard/</link>
+      <pubDate>Sun, 07 May 2023 12:40:22 +0800</pubDate>
+      
+      <guid>http://example.org/posts/why-we-feel-a-problem-is-hard/</guid>
+      <description>When we perceive a problem as difficult, this hardness can be attributed to various factors. It&amp;rsquo;s essential to demystify the concept and develop a more precise and shared understanding of it. Here are some factors that contribute to the difficulty of a problem:
+Hidden and implicit information: Critical information required for solving the problem may be missing, and you need to identify what that information is. This often requires adopting a different perspective from your normal view.</description>
+    </item>
+    
+  </channel>
+</rss>
