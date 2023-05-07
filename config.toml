@@ -5,6 +5,6 @@ theme = "paper"
 publishDir = "docs"
 
 [params]
-  avatar = 'https://github.com/Erykor/erykor.github.io/blob/4d325788dcc59e5ec65e7c13f28bd15411dbdf6a/assets/avacoda.png'
+  avatar = 'https://github.com/Erykor/erykor.github.io/blob/4d325788dcc59e5ec65e7c13f28bd15411dbdf6a/assets/avacoda.png?raw=true'
   name = 'Erykor'
   bio = 'A machine learning practitioner, blogging with GPT4.'
