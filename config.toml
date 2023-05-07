@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = "Erykor's Blog"
 theme = "paper"
 publishDir = "docs"
+
+[params]
+  avatar = 'https://github.com/Erykor/erykor.github.io/assets/avacoda.png'
+  name = 'Erykor'
+  bio = 'A machine learning practitioner, blogging with GPT4.'
