@@ -7,4 +7,4 @@ publishDir = "docs"
 [params]
   avatar = 'https://github.com/Erykor/erykor.github.io/blob/a73eb1639f8c60ac18383d07736975ca8e5dbc96/assets/avacoda.png?raw=true'
   name = 'Erykor'
-  bio = 'A machine learning practitioner, blogging with GPT4.'
+  bio = 'A machine learning practitioner, interested in trading.'
