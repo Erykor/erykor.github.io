@@ -1,5 +1,5 @@
 ---
-title: "Fear of Success"
+title: "Fear Of Success"
 date: 2023-05-14T20:37:31+08:00
 draft: false
 ---

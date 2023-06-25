@@ -1,5 +1,5 @@
 ---
-title: "Why We Feel a Problem Is Hard"
+title: "Why We Feel A Problem Is Hard"
 date: 2023-05-07T12:40:22+08:00
 draft: false
 ---
