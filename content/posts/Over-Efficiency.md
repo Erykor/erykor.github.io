@@ -1,7 +1,7 @@
 ---
-title: "100% Efficiency"
-date: 2023-07-23T10:43:18+08:00
-draft: true
+title: "Over Efficiency"
+date: 2023-07-23T11:25:08+08:00
+draft: false
 ---
 
 Do we need to pursue 100% efficiency? I've been thinking the question for a while and my answer is, NO.
